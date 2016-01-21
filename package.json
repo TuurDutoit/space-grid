@@ -1,0 +1,30 @@
+{
+  "name": "space-grid",
+  "version": "0.0.1",
+  "description": "A very simple spatial grid implementation, designed to speed up some calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuurdutoit/space-grid.git"
+  },
+  "keywords": [
+    "space",
+    "grid",
+    "spatial",
+    "speed",
+    "fast",
+    "calculation",
+    "math",
+    "axes",
+    "2d"
+  ],
+  "author": "Tuur Dutoit <me@tuurdutoit.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuurdutoit/space-grid/issues"
+  },
+  "homepage": "https://github.com/tuurdutoit/space-grid#readme"
+}
